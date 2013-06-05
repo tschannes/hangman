@@ -1,4 +1,5 @@
-require_relative "hangman"
+
+require "hangman"
 
 #figure out a random word to use for the game
 class HangmanRunner
